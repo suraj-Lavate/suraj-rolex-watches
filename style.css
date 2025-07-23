@@ -1,0 +1,180 @@
+*{
+   margin: 0px;
+    padding: 0px;
+}   
+body{
+    background-color: #202323;
+}  
+header{
+    position: sticky;
+    top: 0px;
+}               
+Nav{
+    height: 50px;
+    background-color: black; 
+    padding-bottom: 30px;
+}
+#searchbar{
+    width: 250px;
+    height: 30px;
+    margin-left: 30px;
+}
+#searchbutton{
+    padding: 7px;
+    background-color: #dd6400db;
+}
+.a{
+    text-decoration: none;
+    border-radius: 10px;
+    background-color: #d7ebeb;
+    margin-left: 30px;
+    color: black;
+    padding: 5px;
+}
+#Home{
+    scroll-margin-top: 100px;
+}
+#slidebar{
+    height: 500px;
+    border: 2px solid black;
+    width: auto;
+    object-fit: cover;
+}
+h1{
+    color: white;
+    margin: 20px 0px 0px 0px;
+}
+.line1{
+    height: 500px;
+    width: auto;
+}
+#watch1{
+    margin: 40px 0px 0px 10px;
+    padding: 30px 30px 0px 30px;
+    height: 400px;
+    width: 250px;
+    display: inline-block;
+    background-color: #ffffffd9;
+}
+h2,h3{
+    color: black;
+    text-align: center;
+    margin: 10px 0px 0px 0px;
+}
+#book_now{
+    margin: 10px 0px 0px 80px;
+    padding: 10px;
+    background-color: #ffb355;
+    border-radius: 10px;
+}
+#watch2{
+    margin: 40px 10px 0px 10px;
+    padding: 30px 30px 0px 30px;
+    height: 400px;
+    width: 250px;
+    background-color: #ffffffd9;
+    display: inline-block;
+}
+#watch3{
+    padding: 30px 30px 0px 30px;
+    height: 400px;
+    width: 250px;
+    background-color: #ffffffd9;
+    display: inline-block;
+}
+.line2{
+    height: 500px;
+    width: auto;
+}
+#About{
+    height: auto;
+    scroll-margin-top: 100px;
+}
+p{
+    color: white;  
+    margin-top: 30px;
+}
+#ceo{
+    display: flex;
+}
+#ceoimg{
+    margin: 50px 20px 0px 20px;
+    display: flex;
+}
+#ceotext{
+    background-color: #f0e68c;
+    margin-top: 50px;
+}
+#infoceo{
+    color: black;
+    text-align: center;
+}
+#info{
+    margin-left: 40px;
+}
+#Services{
+    height: auto;
+    scroll-margin-top: 100px;
+}
+#serv{
+    background-color: #ffffff;
+    color: black;
+    margin: 20px 0px 10px 0px;
+    padding: 20px;
+    border-radius: 10px;
+}
+#Contact{
+    height: auto;
+    scroll-margin-top: 100px;
+}
+#form{
+    height: auto;
+    width: 300px;
+    margin-top: 30px;
+    display: inline-block;
+}
+label{
+    margin-left: 30px;
+}
+input{
+    margin-left: 30px;
+    width: 160px;
+}
+#textarea{
+    height: 30px;
+    margin-left: 30px;
+}
+#send{
+    margin-left: 30px;
+    padding: 5px;
+    background-color: #dd6400;
+}
+.display {   
+    display: flex;
+    background-color: #e0ffff;
+    margin: 20px 0px 0px 10px;
+    height: auto;
+}
+.map{
+    margin-left: 200px;
+    margin-top: 30px;
+    height: 500px;
+    width: 100px;
+}
+footer{
+    background-color: #000000;
+}
+#bar{
+    display: flex;
+}
+#Get{
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-right: 50px;
+    text-decoration: none;
+    color: white;
+}
+#copyright{
+    color: white;
+    text-align: center;
+}
